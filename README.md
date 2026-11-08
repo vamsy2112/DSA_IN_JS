@@ -21,7 +21,7 @@
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vamsy2112/DSA_IN_JS/tree/main/JavaScript/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 ## Sorting
-| Problem Name | Difficulty |
+| Problem Name | Difficulty | 
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/vamsy2112/DSA_IN_JS/tree/main/0088-merge-sorted-array/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/vamsy2112/DSA_IN_JS/tree/main/0977-squares-of-a-sorted-array/) | Easy |
