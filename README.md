@@ -3,7 +3,7 @@
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-| Problem Name | Difficulty |  
+| Problem Name | Difficulty |   
 | ------- | ------- |
 | [0015-3sum](https://github.com/vamsy2112/DSA_IN_JS/tree/main/JavaScript/Medium/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vamsy2112/DSA_IN_JS/tree/main/JavaScript/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
